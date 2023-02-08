@@ -1,0 +1,19 @@
+{
+    "name": "contact/automail",
+    "description": "Will send mails automatically",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Automail\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TareqImam",
+            "email": "tareqimam800@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
